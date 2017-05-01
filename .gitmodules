@@ -1,0 +1,3 @@
+[submodule "PoiChat-resources"]
+	path = PoiChat-resources
+	url = https://github.com/PoiChat/PoiChat-resources.git
